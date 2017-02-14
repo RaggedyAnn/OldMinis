@@ -13,6 +13,6 @@ eyes?
 
 06-03-2016
 
+![ScreenShot](https://github.com/RaggedyAnn/OldMinis/blob/master/3rd%20weekly%20mini%20exercise/somethingHidden/SomethingHidden.PNG)
 
 
-https://github.com/RaggedyAnn/OldMinis/blob/master/3rd%20weekly%20mini%20exercise/somethingHidden/SomethingHidden.PNG 
