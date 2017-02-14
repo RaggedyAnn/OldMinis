@@ -14,3 +14,4 @@ endless wait, I made this slow throbber consisting of a globe on which light get
 ![ScreenShot](https://github.com/RaggedyAnn/OldMinis/blob/master/2nd%20weekly%20mini%20exercise/aCalmingThrobber/a%20calming%20throbber.PNG)
 
 Run: 
+https://rawgit.com/RaggedyAnn/OldMinis/master/2nd%20weekly%20mini%20exercise/aCalmingThrobber/index.html 
